@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+.noEmailMessage {
+    font-size: large;
+    font-weight: bold;
+    color: orange;
+    border-radius: 15px;
+    background-color: teal;
+    text-align: center;
+    
+}
+body {
+    background-color: aliceblue;
+    background-image: url(https://img.freepik.com/free-vector/modern-background-with-flowing-lines-design_1048-5917.jpg?size=626&ext=jpg&uid=R113600860&ga=GA1.2.784201730.1692634703&semt=ais);
+}
